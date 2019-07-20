@@ -15,7 +15,7 @@ page_sections:
     link_text: Blog
   - link: "#"
     link_text: Team
-  - link: "#"
+  - link: https://www.google.com/maps/dir/51.2297011,-2.305322/techshed+frome/@51.2322848,-2.3212684,15z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x48722dd0a344b92b:0x4d7a38eae7527eae!2m2!1d-2.3199753!2d51.2378817
     link_text: Map
   cta:
     url: https://mailchi.mp/f113936d466b/frometechshed
