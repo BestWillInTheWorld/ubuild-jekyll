@@ -22,14 +22,7 @@ page_sections:
   block: hero-2
   headline: Techshed <br><strong>Frome</strong>
   content: At Techshed we're creating a community of tech creators to build new skills,
-    teach, learn and create new things.<br><br>Through a combination of regular weekly
-    sessions, community projects and public events we aim to raise technical resources
-    in Frome.<br><br>To enable this the simple fact of having somewhere to go, share
-    and create with interesting, like-minded people is our starting point.  <br><br>Through
-    collaboration and focus on real-world projects, we're building depth of skills
-    and understanding among members, as well as broadening awareness of the opportunities
-    and pitfalls of technology among the wider community.<br><br>When we bring different
-    minds together, we believe awesome things will happen!
+    teach, learn and create new things.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
