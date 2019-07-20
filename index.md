@@ -44,7 +44,7 @@ page_sections:
     technology among the wider community.<br><br>When we bring different minds together,
     we believe awesome things will happen!
   media:
-    image: "/uploads/2019/07/20/IMG_20190703_205841.jpg"
+    image: "/uploads/2019/07/20/ideas.jpg"
     alt_text: Ideas
 - template: content-feature
   block: feature-1
