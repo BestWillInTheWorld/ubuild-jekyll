@@ -20,8 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Techshed <br><strong>Fostering technical and digital creative talent in
-    Frome</strong>
+  headline: Techshed <br><strong>Frome</strong>
   content: At Techshed we're creating a community of tech creators to build new skills,
     teach, learn and create new things.<br><br>Through a combination of regular weekly
     sessions, community projects and public events we aim to raise technical resources
