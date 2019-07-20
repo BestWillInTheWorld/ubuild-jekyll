@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
+  - link: https://trello.com/b/wJNI4KZH/techshed-sessions
     link_text: Projects
   - link: "#"
     link_text: Blog
