@@ -1,4 +1,45 @@
 ---
 label: Blog post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: sub
+  type: text
+  config:
+    required: false
+  label: Sub Heading
+- name: publish_date
+  type: datetime
+  label: Publish Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: banner_image
+  type: file
+  config:
+    maxSize: 250
+  label: Banner Image
+- name: related_posts
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Related Posts
+- name: layout
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Layout
