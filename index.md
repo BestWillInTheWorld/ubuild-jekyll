@@ -36,8 +36,8 @@ page_sections:
   media_alignment: Left
   headline: "<strong>Fostering technical and digital creative talent </strong>in Frome"
   content: Through a combination of regular weekly sessions, community projects and
-    public events we aim to raise technical resources in Frome.<br><br>To enable this
-    the simple fact of having somewhere to go, share and create with interesting,
+    public events we aim to raise technical resources in Frome.<br><br>To enable this,
+    the simple need of having somewhere to go, share and create with interesting,
     like-minded people is our starting point. <br><br>Through collaboration and focus
     on real-world projects, we're building depth of skills and understanding among
     members, as well as broadening awareness of the opportunities and pitfalls of
