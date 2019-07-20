@@ -35,8 +35,14 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>Fostering technical and digital creative talent </strong>in Frome"
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  content: Through a combination of regular weekly sessions, community projects and
+    public events we aim to raise technical resources in Frome.<br><br>To enable this
+    the simple fact of having somewhere to go, share and create with interesting,
+    like-minded people is our starting point. <br><br>Through collaboration and focus
+    on real-world projects, we're building depth of skills and understanding among
+    members, as well as broadening awareness of the opportunities and pitfalls of
+    technology among the wider community.<br><br>When we bring different minds together,
+    we believe awesome things will happen!
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
