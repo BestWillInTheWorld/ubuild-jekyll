@@ -1,8 +1,5 @@
 ---
 main:
-- url: https://mailchi.mp/f113936d466b/frometechshed
-  weight: 2
-  title: Stay Up To Date
 - identifier: home
   url: "/"
   weight: 1
