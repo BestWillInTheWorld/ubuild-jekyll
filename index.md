@@ -20,7 +20,8 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: Techshed <br><strong>Fostering technical and digital creative talent in
+    Frome</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
@@ -28,7 +29,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2019/07/20/IMG_20190703_205841.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2019/07/20/DSC09189.JPG"
 - template: content-feature
