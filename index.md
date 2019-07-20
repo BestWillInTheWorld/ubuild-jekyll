@@ -21,7 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Techshed <br><strong>Frome</strong>
-  content: At Techshed we're building a community of tech creators to build new skills,
+  content: At Techshed we're building a community of tech creators to enhance skills,
     teach, learn and create new things.
   cta:
     enabled: true
