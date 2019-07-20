@@ -18,6 +18,9 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
+  templates:
+  - detail-content
+  - hero-banner-w-image
 - type: document
   path: _config.yml
   label: Config
