@@ -7,19 +7,17 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/07/20/techshed-binary-black-logo.png"
   navigation:
-  - link: "#"
-    link_text: Projects
-  - link: https://mailchi.mp/f113936d466b/frometechshed
-    link_text: Stay Up To Date
   - link: "/"
     link_text: Home
+  - link: "#"
+    link_text: Projects
   - link: "#"
     link_text: Blog
   - link: "#"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://mailchi.mp/f113936d466b/frometechshed
+    button_text: Stay Up To Date
 - template: hero-banner-w-image
   block: hero-2
   headline: Techshed <br><strong>Frome</strong>
