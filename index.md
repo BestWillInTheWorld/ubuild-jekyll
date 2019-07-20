@@ -44,7 +44,7 @@ page_sections:
     technology among the wider community.<br><br>When we bring different minds together,
     we believe awesome things will happen!
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2019/07/20/IMG_20190703_205841.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
