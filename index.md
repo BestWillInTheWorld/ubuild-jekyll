@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/07/20/techshed-binary-black-logo.png"
   navigation:
+  - link: Stay Up To Date
+    link_text: https://mailchi.mp/f113936d466b/frometechshed
   - link: "/"
     link_text: Home
   - link: "#"
