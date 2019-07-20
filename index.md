@@ -7,8 +7,6 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/07/20/techshed-binary-black-logo.png"
   navigation:
-  - link: "#"
-    link_text: Map
   - link: "/"
     link_text: Home
   - link: "#"
@@ -17,6 +15,8 @@ page_sections:
     link_text: Blog
   - link: "#"
     link_text: Team
+  - link: "#"
+    link_text: Map
   cta:
     url: https://mailchi.mp/f113936d466b/frometechshed
     button_text: Stay Up To Date
