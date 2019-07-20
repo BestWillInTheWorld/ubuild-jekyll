@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2019/07/20/techshed-binary-white-logo-wide.png"
     alt_text: Product Shot
-  background_image: "/uploads/2019/07/20/DSC09189-partial-crop.JPG"
+  background_image: "/uploads/2019/07/20/DSC09189-partial-crop-wide.JPG"
 - template: content-feature
   block: feature-1
   media_alignment: Left
